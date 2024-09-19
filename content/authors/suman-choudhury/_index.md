@@ -17,13 +17,13 @@ education:
   courses:
   - course: PhD in Computer Vision and Artificial Intelligence
     institution: Academy of Scientific and Innovative Research
-    year: 2023
+    year: 2023-Present
   - course: M.Tech in Mechatronics
     institution: Academy of Scientific and Innovative Research
-    year: 2021
+    year: 2021-2023
   - course: Bachelor of Technology in Electronics and Communication Engineering
     institution: Jalpaiguri Government Engineering College
-    year: 2019
+    year: 2015-2019
 
 social:
 - icon: linkedin

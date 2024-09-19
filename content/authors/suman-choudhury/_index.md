@@ -15,11 +15,20 @@ bio: Integrated M.Tech-PhD Scholar
 
 education:
   courses:
+  - course: PhD in Computer Vision and Artificial Intelligence
+    institution: Academy of Scientific and Innovative Research
+    year: 2023
+  - course: M.Tech in Mechatronics
+    institution: Academy of Scientific and Innovative Research
+    year: 2021
   - course: Bachelor of Technology in Electronics and Communication Engineering
     institution: Jalpaiguri Government Engineering College
     year: 2019
 
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/scinv22
 - icon: twitter
   icon_pack: fab
   link: https://mobile.twitter.com/scinv22

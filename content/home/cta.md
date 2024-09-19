@@ -1,6 +1,6 @@
 ---
-title:
-subtitle:
+title: AI & IoT Lab 
+subtitle: AI&IoT Lab, CSIR-CMERI
 widget: blank
 headless: true
 weight: 40

@@ -1,8 +1,8 @@
 ---
 # Generate AI&IoT CMS wowchemycms
-type: ai&iot
+type: wowchemycms
 outputs:
-- ai&iot_config
+- wowchemycms_config
 - HTML
 ---
 

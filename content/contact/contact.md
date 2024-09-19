@@ -19,18 +19,18 @@ content:
   email: it@cmeri.res.in
   phone: 352-846-0643
   address:
-    street: Building 150, University of Florida,
-    city: Gainesville
-    region: FL
-    postcode: '32611'
-    country: United States
-    country_code: US
+    street: Mahatma Gandhi Road, Durgapur,
+    city: Durgapur
+    region: IN
+    postcode: '713209'
+    country: India
+    country_code: IN
   coordinates:
-    latitude: '29.645802'
-    longitude: '-82.34576'
-  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '23.172888'
+    longitude: '88.098244'
+  # directions: Enter Main Building 1 and take the left side from the reception
   # office_hours:
-  #   - 'Monday 10:00 to 13:00'
+  #   - 'Monday 09:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   contact_links:

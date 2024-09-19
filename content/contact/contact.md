@@ -17,7 +17,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: it@cmeri.res.in
-  phone: 352-846-0643
+  phone: (0343)6510701, 6510702
   address:
     street: Mahatma Gandhi Road, Durgapur,
     city: Durgapur

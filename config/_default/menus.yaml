@@ -26,7 +26,7 @@ main:
     url: publication
     weight: 70
   - name: Lab Wiki
-    url: https://wiki.weecology.org/
+    url: wiki
     weight: 80
   - name: Contact
     url: contact

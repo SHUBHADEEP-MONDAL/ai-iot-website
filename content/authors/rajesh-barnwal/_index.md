@@ -53,8 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using the People widget.
 user_groups:
-- Principal Investigator
-- Faculty
+- Principal Investigator & Faculty
 ---
 
 Suman is an integrated M.Tech-PhD scholar working on Computer Vision for Autonomous Vehicles at the AI & IoT Lab at CSIR-CMERI, Durgapur. He has been selected for the [ACM India Anveshan Setu Fellowship 2024-2025](https://www.acm.org/articles/acm-india-bulletins/2024/announcing-acm-india-anveshan-setu-fellows) to work with [Prof. Prerana Mukherjee](https://www.jnu.ac.in/content/prerana).

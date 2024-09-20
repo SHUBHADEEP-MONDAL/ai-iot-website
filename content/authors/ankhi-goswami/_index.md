@@ -3,7 +3,7 @@
 title: Ankhi Goswami
 
 # Role/position
-role: Project Associate 1
+role: Project Associate- I
 
 # Organizations/Affiliations
 organizations:
@@ -14,9 +14,8 @@ organizations:
 bio: Project associate at CSIR-CMERI, Durgapur 
 
 interests:
-  - AI Machine Learning
-  - Image Classification
   - Computer Vision
+  - Machine Learning
 
 
 
@@ -50,6 +49,4 @@ user_groups:
 - Researchers
 ---
 
-Ankhi Goswami is a software engineer who earned a Bachelor’s degree in Computer Science and Engineering (CSE) from DIATM in 2022. Currently, she serves as a Project Associate at CSIR-CMERI, specializing in machine learning, artificial intelligence, computer vision, and image classification. With a strong foundation in computer science, she is dedicated to advancing research and development in these cutting-edge fields.
-
-In her role at CSIR-CMERI, Ankhi focuses on developing innovative solutions in machine learning and artificial intelligence. She is involved in projects that leverage computer vision techniques for image classification, aiming to enhance the accuracy and efficiency of automated systems. Her work contributes to advancing technology applications in various domains, particularly in the analysis and interpretation of visual data and model classification.  
+Ankhi Goswami is a software engineer with a Bachelor's degree in Computer Science and Engineering (CSE) from DIATM, earned in 2022. She is currently a Project Associate at CSIR-CMERI, where her work focuses on computer vision and machine learning, with a particular interest in image classification. At CSIR-CMERI, Ankhi contributes to projects that utilize advanced computer vision techniques to improve the accuracy and efficiency of automated systems. Her efforts are instrumental in advancing technology applications, particularly in the analysis and interpretation of visual data for model classification.

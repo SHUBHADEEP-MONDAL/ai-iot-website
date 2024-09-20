@@ -13,16 +13,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Project Assistant at CSIR-CMERI (Present)
 
-# Project summary to display on homepage.
-summary : Currently **Software Engineer at CSIR-CMERI**. 
+# Project summary to display on the homepage.
+summary: Project Assistant. 
 
 education:
   courses:
   - course: M.Sc in Computer Science with specialization in Data Science
-    institution: Durgapur Institute of Advanced Technology and Management
+    institution: Kazi Nazrul University
     year: 2021-2023
-  - course: Bsc Honors in Computer Science
-    institution: Durgapur Institute of Advanced Technology and Management
+  - course: BSc Honors in Computer Science
+    institution: Durgapur Women's College
     year: 2021-2023
 
 social:
@@ -34,14 +34,14 @@ social:
   link: https://github.com/Akanksha-0408
 
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar is enabled in Config)
 email: "arnabmallick2000@gmail.com"
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in the author lists. (true/false)
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using the People widget.
 user_groups:
 - Researchers
 ---

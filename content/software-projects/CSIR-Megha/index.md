@@ -1,8 +1,8 @@
 ---
 # Documentation: https://cmeri.res.in/
 
-title: "CSIR-Mecha"
-summary: "CSIR MEGHA is an IoT cloud-based technology initiative developed for smart water quality monitoring. It aims to enhance water management through real-time data collection, analysis, and reporting of water quality parameters across various locations. This technology is part of the efforts by the Council of Scientific and Industrial Research (CSIR) to address pressing environmental and public health concerns regarding water safety."
+title: "CSIR-Megha"
+summary: "**CSIR MEGHA is an IoT cloud-based technology** initiative developed for smart water quality monitoring."
 authors: []
 tags: ["cloud"]
 categories: []

@@ -32,6 +32,9 @@ education:
     year: 2015-2019
 
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://scinv22.github.io/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/scinv22

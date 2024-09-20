@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Weecology'
-    description: 'Interdisciplinary Ecology Research Group at University of Florida studying ecological dynamics and forecasting'
-    twitter: 'weecology'
+    org_name: 'AI & IoT Lab, CSIR-CMERI'
+    description: 'AI & IoT Lab, CSIR-CMERI'
+    twitter: 'csir_cmeri'
   analytics:
     google_analytics: 'UA-2320026-3'
     baidu_tongji: ''
@@ -33,11 +33,11 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
-    show_language: false
+    show_logo: true
+    show_language: true
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
@@ -70,11 +70,11 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/weecology/website'
+    url: 'https://github.com/CSIRCMERI/csircmeri.github.io'
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
@@ -84,7 +84,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: AI&IoT
     algolia:
       app_id: ''
       api_key: ''

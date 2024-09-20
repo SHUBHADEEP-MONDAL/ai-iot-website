@@ -38,4 +38,4 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [author]
   name = "Arnab Mallick"
-  homepage = "https://aiiot.netlify.app/author/arnab-mallick/"
+  homepage = "https://aiiot.netlify.app/author/arnab-mallick"

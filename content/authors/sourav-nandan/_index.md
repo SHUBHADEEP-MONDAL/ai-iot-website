@@ -31,7 +31,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/sourav-nandan-aa857722/
 - icon: globe
-  icon_pack: fab
+  icon_pack: fas
   link: https://www.cmeri.res.in/user-details/11114
 
 

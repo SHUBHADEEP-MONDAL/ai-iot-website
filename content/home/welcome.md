@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 5  # Order that this section will appear.
 title: AI & IoT Lab
 subtitle: AI & IoT Research Lab of CSIR-CMERI
-# hero_media: img/headers/portal-sunset.jpg
+hero_media: img/headers/portal-sunset.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

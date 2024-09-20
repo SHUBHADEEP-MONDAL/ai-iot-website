@@ -13,6 +13,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Currently **Software Engineer at CSIR-CMERI**. 
 
+interests:
+  - Cyber-Physical Systems
+  - Internet of Things
+  - AI /Machine Learning
+  - Cloud Computing
+  - 
+
 # Project summary to display on homepage.
 summary : Currently **Software Engineer at CSIR-CMERI**. 
 

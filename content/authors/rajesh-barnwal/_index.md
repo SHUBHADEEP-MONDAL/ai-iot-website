@@ -3,26 +3,28 @@
 title: Dr. Rajesh P. Barnwal
 
 # Role/position
-role: ---------
+role: Sr. Principal Scientist 
 
 # Organizations/Affiliations
 organizations:
 - name: CSIR-CMERI
   url: "http://cmeri.res.in"
+- name: ACSiR
+  url: "http://acsir.res.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ---------------
+bio: Sr. Principal Scientist & Professor of ACSir
 
 education:
   courses:
-  - course: PhD in Computer Vision and Artificial Intelligence
-    institution: Academy of Scientific and Innovative Research
+  - course: PhD in Computer Science
+    institution: Imdian Institute of Technology, Kharagpur
     year: 2023-Present
-  - course: M.Tech in Mechatronics
-    institution: Academy of Scientific and Innovative Research
+  - course: M.Tech in Computer Science
+    institution: Imdian Institute of Technology, Kharagpur
     year: 2021-2023
-  - course: Bachelor of Technology in Electronics and Communication Engineering
-    institution: Jalpaiguri Government Engineering College
+  - course: Bachelor of Technology in Computer Science
+    institution: Imdian Institute of Technology, Kharagpur
     year: 2015-2019
 
 social:

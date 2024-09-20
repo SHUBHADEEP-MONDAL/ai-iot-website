@@ -13,6 +13,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Project associate at CSIR-CMERI, Durgapur 
 
+interests:
+  - AI Machine Learning
+  - Image Classification
+  - Computer Vision
+
+
+
 # Project summary to display on homepage.
 summary : Currently **Software Engineer at CSIR-CMERI**. 
 

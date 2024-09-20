@@ -19,39 +19,3 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
-
-[[redirects]]
-  from = "https://www.weecology.org/lab-wiki/hipergator-intro-guide"
-  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-intro-guide"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.weecology.org/lab-wiki/hipergator-intro-guide/hipergator-intro-guide"
-  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-intro-guide"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.weecology.org/lab-wiki/hipergator-reference-guide"
-  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-reference"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.weecology.org/lab-wiki/hipergator-reference-guide/hipergator-reference-guide"
-  to = "https://wiki.weecology.org/docs/computers-and-programming/hipergator-reference"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.weecology.org/lab-wiki/way-of-weecology"
-  to = "https://wiki.weecology.org/docs/lab-policy-procedures/way-of-weecology"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.weecology.org/lab-wiki/code-of-conduct"
-  to = "https://wiki.weecology.org/docs/lab-policy-procedures/code-of-conduct"
-  status = 301
-  force = true

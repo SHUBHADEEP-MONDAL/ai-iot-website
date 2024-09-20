@@ -13,6 +13,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Integrated M.Tech-PhD Scholar
 
+interests:
+  - AI /Machine Learning
+  - 
+  - 
+
 education:
   courses:
   - course: PhD in Computer Vision and Artificial Intelligence

@@ -14,9 +14,10 @@ organizations:
 bio: Integrated M.Tech-PhD Scholar
 
 interests:
-  - AI /Machine Learning
-  - 
-  - 
+  - Computer Vision (Scene Understanding)
+  - Machine Learning (Semi-supervised, Few-shot)
+  - Artificial Intelligence (Visual Reasoning)
+  - Autonomous Vehicles (Vision-based)
 
 education:
   courses:
@@ -53,4 +54,4 @@ user_groups:
 - Graduate Students
 ---
 
-Suman is an integrated M.Tech-PhD scholar working on Computer Vision for Autonomous Vehicles at the AI & IoT Lab at CSIR-CMERI, Durgapur. He has been selected for the [ACM India Anveshan Setu Fellowship 2024-2025](https://www.acm.org/articles/acm-india-bulletins/2024/announcing-acm-india-anveshan-setu-fellows) to work with [Prof. Prerana Mukherjee](https://www.jnu.ac.in/content/prerana).
+Suman is an integrated M.Tech-PhD scholar working on computer vision-based scene understanding in autonomous vehicles. He has been selected for the [ACM India Anveshan Setu Fellowship 2024-2025](https://www.acm.org/articles/acm-india-bulletins/2024/announcing-acm-india-anveshan-setu-fellows) to work with [Prof. Prerana Mukherjee](https://www.jnu.ac.in/content/prerana).

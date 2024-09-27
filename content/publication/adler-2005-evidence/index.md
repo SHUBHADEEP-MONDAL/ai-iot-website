@@ -16,7 +16,7 @@ url_source: ''
 # url_video: ''
 categories: []
 date: '2022-01-01'
-lastmod: 2023-07-19T01:37:40.412342Z
+lastmod: 2022-01-01T00:00:00-00:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-01'
+publishDate: '2022-01-01T00:00:00Z'
 publication_types:
 - '2'
 abstract: ''

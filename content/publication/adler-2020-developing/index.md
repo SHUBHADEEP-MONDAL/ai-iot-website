@@ -1,26 +1,22 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Developing theory about the predictability of nature: What, where, when and
-  how?'
+title: Methods and Metrics for Explaining Artificial Intelligence Models: A Review
 subtitle: ''
 summary: ''
 authors:
-- Peter Adler
-- Ethan P White
-- Michael Cortez
+- Puja Banerjee
+- Rajesh P Barnwal
 tags: []
-# url_pdf: ''
+url_pdf: ''
 # url_code: ''
-# url_dataset: ''
+url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-# url_source: ''
+url_source: ''
 # url_video: ''
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-18T21:37:53-04:00
+date: '2022-01-01'
+lastmod: 2022-01-01T00:00:00-00:00
 featured: false
 draft: false
 
@@ -38,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-19T01:37:53.134303Z'
+publishDate: '2022-01-01T00:00:00Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*2020 ESA Annual Meeting (August 3-6)*'
+publication: '*Explainable AI: Foundations, Methodologies and Applications*'
 ---

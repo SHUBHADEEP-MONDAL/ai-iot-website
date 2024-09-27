@@ -1,26 +1,23 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Matching the forecast horizon with the relevant spatial and temporal processes
-  and data sources
+title: Machine versus human attention: A comparative study of different transfer learning models
 subtitle: ''
 summary: ''
 authors:
-- Peter B Adler
-- Ethan P White
-- Michael H Cortez
+- Puja Banerjee
+- Siddhartha Raj
+- Dr Rajesh P Barnwal
 tags: []
-url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.05271'
+url_pdf: ''
 # url_code: ''
-# url_dataset: ''
+url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: 'https://onlinelibrary.wiley.com/doi/10.1111/ecog.05271'
+url_source: ''
 # url_video: ''
 categories: []
-date: '2020-01-01'
-lastmod: 2022-04-24T15:13:03-04:00
+date: '2023-01-01'
+lastmod: 2023-01-01T00:00:00-00:00
 featured: false
 draft: false
 
@@ -38,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-19T01:37:51.500934Z'
+publishDate: '2023-01-01T00:00:00Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Ecography*'
+publication: '*Proceedings of the 6th Joint International Conference on Data Science \& Management of Data (10th ACM IKDD CODS and 28th COMAD)*'
 ---

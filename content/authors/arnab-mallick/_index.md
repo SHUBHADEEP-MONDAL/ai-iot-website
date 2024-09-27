@@ -3,31 +3,31 @@
 title: Arnab Mallick
 
 # Role/position
-role: Currently **Software Engineer at CSIR-CMERI**. 
+role: Software Engineer at CSIR-CMERI. 
 
 # Organizations/Affiliations
 organizations:
 - name: CSIR-Central Mechanical Engineering Research Institute
   url: http://cmeri.res.in
 
+
 # Short bio (displayed in user profile at end of posts)
 bio: Currently **Software Engineer at CSIR-CMERI**. 
 
 interests:
-  - Cyber-Physical Systems
   - Internet of Things
-  - AI /Machine Learning
+  - Blockchain
   - Cloud Computing
-  - 
+  - Distributed Systems
+  - VNF
 
-# Project summary to display on homepage.
+# Project summary to display on the homepage.
 summary : Currently **Software Engineer at CSIR-CMERI**. 
 
 education:
   courses:
-  - course: Bachelor of Technology
-    institution: Delhi College of Engineering
-    year: 2016
+  - course: Bachelors 
+    institution: Indian Institute of Technology, Madras
 
 social:
 - icon: linkedin
@@ -35,6 +35,9 @@ social:
   link: https://www.linkedin.com/in/arnab-mallick1
 - icon: github
   icon_pack: fab
+  link: https://github.com/arnab-m1
+- icon: globe
+  icon_pack: fas
   link: https://github.com/arnab-m1
 
 
@@ -50,4 +53,4 @@ user_groups:
 - Researchers
 ---
 
-Arnab is a Google Software Engineer at CSIR-CMERI for the IoT project and worked on IoT security & distributed systems.
+Arnab is a Software Engineer @ CSIR-CMERI who worked on IoT security & distributed systems & Cloud Computing.

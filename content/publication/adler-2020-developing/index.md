@@ -1,5 +1,5 @@
 ---
-title: Methods and Metrics for Explaining Artificial Intelligence Models: A Review
+title: Methods and Metrics for Explaining Artificial Intelligence Models A Review 
 subtitle: ''
 summary: ''
 authors:

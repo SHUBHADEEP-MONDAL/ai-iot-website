@@ -2,15 +2,15 @@
 # Display name
 title: Aishwarya Banerjee
 # Role/position
-role: Formar Project Staff currently pursuing PhD at CSIR-CMERI
+role: Project Staff currently pursuing PhD at CSIR-CMERI
 
 # Organizations/Affiliations
 organizations:
 - name: CSIR-CMERI
   url: "http://cmeri.res.in"
 
-# Short bio (displayed in user profile at end of posts)
-bio: Formar Project Associate @ AI&IoT Lab CSIR-CMERI| PhD Scholar & CSIR-SRF @ CSIR-CMERI 
+# Short bio (displayed in user profile at the end of posts)
+bio: Project Associate @ AI&IoT Lab CSIR-CMERI| PhD Scholar & CSIR-SRF @ CSIR-CMERI 
 
 interests:
   - Acoustic Emission Test

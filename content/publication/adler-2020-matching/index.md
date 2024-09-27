@@ -1,5 +1,5 @@
 ---
-title: Machine versus human attention: A comparative study of different transfer learning models
+title: Machine versus human attention A comparative study of different transfer learning models
 subtitle: ''
 summary: ''
 authors:

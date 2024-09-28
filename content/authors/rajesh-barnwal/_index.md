@@ -3,7 +3,7 @@
 title: Rajesh P Barnwal
 
 # Role/position
-role: Sr. Principal Scientist 
+role: Principal Scientist 
 
 # Organizations/Affiliations
 organizations:
@@ -56,4 +56,5 @@ highlight_name: true
 user_groups:
 - Principal Investigator & Faculty
 ---
+
 Dr. Barnwal is a outstanding scientist 

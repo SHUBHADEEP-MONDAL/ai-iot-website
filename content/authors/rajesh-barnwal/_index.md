@@ -56,5 +56,4 @@ highlight_name: true
 user_groups:
 - Principal Investigator & Faculty
 ---
-
-Dr.
+Dr. Barnwal is a outstanding scientist 

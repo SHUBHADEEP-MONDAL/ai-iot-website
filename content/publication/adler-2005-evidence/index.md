@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2022-01-01T00:00:00Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*2022 IEEE Fourth International Conference on Advances in Electronics, Computers and Communications (ICAECC)*'
 ---

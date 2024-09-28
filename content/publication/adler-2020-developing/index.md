@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2022-01-01T00:00:00Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: '*Explainable AI: Foundations, Methodologies and Applications*'
 ---

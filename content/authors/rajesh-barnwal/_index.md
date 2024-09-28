@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Rajesh P. Barnwal
+title: Rajesh P Barnwal
 
 # Role/position
 role: Sr. Principal Scientist 

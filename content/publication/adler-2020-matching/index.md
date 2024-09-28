@@ -5,7 +5,7 @@ summary: ''
 authors:
 - Puja Banerjee
 - Siddhartha Raj
-- Dr Rajesh P Barnwal
+- Rajesh P Barnwal
 tags: []
 url_pdf: ''
 # url_code: ''

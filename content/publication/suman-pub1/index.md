@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2023-01-01T00:00:00Z'
 publication_types:
-- '1'
+- '4'
 abstract: 'Road Scene Recognition (RSR) is a crucial problem for autonomous vehicles and robotics, which requires accurate perception of the surrounding environment. Multi-label image classification (MLIC) techniques are suitable for RSR since they can handle the presence of multiple objects simultaneously. However, there is a lack of research and datasets to address RSR through MLIC. Nonetheless, transformer and graph-based architectures have emerged to address MLIC’s complexity and have shown rapid progress. Though there are few work published in the area of RSR but those have their own limitations. While segmentation and detection-based architectures have been well-researched, classification-based approaches are less explored.In this work, we explored classification-based approach for RSR using well curated dataset from the KITTI road-scene dataset. Furthermore, we analyzed and compared different contemporary transformer and graph-based MLIC architectures like C-Tran, MLGCN and SSGRL to identify the optimal approach for classification-based RSR. We also studied the capability of these MLIC architectures in effective handling the impact of class imbalance and biasness in the training dataset. Through extensive experiments, we substantiated the outcome by including the results of different ablation study.'
 # publication: '*Proceedings of the 6th Joint International Conference on Data Science \& Management of Data (10th ACM IKDD CODS and 28th COMAD)*'
 ---

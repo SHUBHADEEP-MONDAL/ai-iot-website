@@ -26,7 +26,7 @@ summary : Currently **Software Engineer at CSIR-CMERI**.
 
 education:
   courses:
-  - course: Bachelors 
+  - course: Dual Degree(Bachelor's + Master's)
     institution: Indian Institute of Technology, Madras
 
 social:
